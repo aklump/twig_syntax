@@ -4,7 +4,7 @@
 This is an attempt to match Twig syntax in PHP.
 
 ## Roadmap
-I will only build out the functionality I need to realize simple templates.  This will never be a full solution, it's just a bridge for a small project.  Don't expect great things.
+I expect this to grow slowly as I need more functionality; I'm not trying to create a total solution, just bridge a temporary gap.
 
 ## Examples 1
 ### Twig
